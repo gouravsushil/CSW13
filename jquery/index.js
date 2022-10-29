@@ -13,6 +13,6 @@ document.getElementsByTagName("h1")[0].style.fontSize="3rem";
 //document.querySelectorAll("li")[2].style.color="blue";
 //document.querySelectorAll("li")[3].style.color="blue";
 //document.querySelectorAll("li")[3].classList.add("invisible");
-//document.querySelectorAll("img).attributes.setAttributes("href"," https://cdn.iconscout.com/icon/free/png-256/astonishes-boy-1129046.png");
+//document.querySelectorAll("img).attributes.setAttributes("href"," //https://cdn.iconscout.com/icon/free/png-256/astonishes-boy-1129046.png");
 
 
